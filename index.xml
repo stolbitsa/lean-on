@@ -2,8 +2,8 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>lean-on</repo>
-  <version>v1.0.9</version>
-  <next number="1" owner="stolbitsa" repo="tonic"/>
+  <version>v1.0.10</version>
+  <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>bcaffb480468776131174cfae3497485e32eb28537a842733dfb779bc3c2e710</en>
     <ru>bcaffb480468776131174cfae3497485e32eb28537a842733dfb779bc3c2e710</ru>
@@ -43,12 +43,12 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="LeanOn_6_.mp4" size="697171" type="video/mp4" volume="1">042873dfe7693d99b594548236b72faf83cc6e32e906217f9bd8b42918c470a4</video>
+    <video name="LeanOn_6_.mp4" size="697171" type="video/mp4" volume="0.553">042873dfe7693d99b594548236b72faf83cc6e32e906217f9bd8b42918c470a4</video>
     <notes>
-      <note number="1" values="18" ticks="71" durationTicks="45" ppq="96" velocity="0.843"/>
-      <note number="2" values="38" ticks="120" durationTicks="51" ppq="96" velocity="0.906"/>
-      <note number="3" values="48" ticks="266" durationTicks="51" ppq="96" velocity="0.811"/>
-      <note number="4" values="18" ticks="337" durationTicks="50" ppq="96" velocity="0.921"/>
+      <note number="1" values="38" ticks="71" durationTicks="45" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="130" durationTicks="51" ppq="96" velocity="0.906"/>
+      <note number="3" values="38" ticks="267" durationTicks="51" ppq="96" velocity="0.811"/>
+      <note number="4" values="18" ticks="338" durationTicks="50" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="4">
