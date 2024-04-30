@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>lean-on</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>bcaffb480468776131174cfae3497485e32eb28537a842733dfb779bc3c2e710</en>
@@ -14,7 +14,7 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="LeanOn1_3.mp4" size="816923" type="video/mp4" volume="0.905">ae0aa686041e2dc4ac862cea98c9885967b7899e0274f0c77fdb5b8e0af4369a</video>
+    <video name="LeanOn1_3.mp4" size="816923" type="video/mp4" volume="0.651">ae0aa686041e2dc4ac862cea98c9885967b7899e0274f0c77fdb5b8e0af4369a</video>
     <notes>
       <note number="1" values="18" ticks="120" durationTicks="45" ppq="96" velocity="0.843"/>
       <note number="2" values="38" ticks="178" durationTicks="51" ppq="96" velocity="0.913"/>
@@ -27,7 +27,7 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="LeanOn_5_.mp4" size="656167" type="video/mp4" volume="1">b53bc4ead5f854c7d46c86a8daebcbb26b7a0a701669c3d76f53c5ea2d1d3c8e</video>
+    <video name="LeanOn_5_.mp4" size="656167" type="video/mp4" volume="0.63">b53bc4ead5f854c7d46c86a8daebcbb26b7a0a701669c3d76f53c5ea2d1d3c8e</video>
     <notes>
       <note number="1" values="38" ticks="26" durationTicks="37" ppq="96" velocity="0.787"/>
       <note number="2" values="38" ticks="73" durationTicks="55" ppq="96" velocity="0.811"/>
@@ -56,14 +56,16 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
+    <video name="LeanOn_7_.mp4" size="839857" type="video/mp4" volume="0.54">01f8f5707358d16d68216d3700e23bbc8eafce5addab2808315e74de3ec3e7bf</video>
     <notes>
-      <note number="1" values="18" ticks="20" durationTicks="37" ppq="96" velocity="0.787"/>
-      <note number="2" values="18" ticks="71" durationTicks="55" ppq="96" velocity="0.811"/>
-      <note number="3" values="18" ticks="140" durationTicks="42" ppq="96" velocity="0.85"/>
-      <note number="4" values="18" ticks="195" durationTicks="48" ppq="96" velocity="0.772"/>
-      <note number="5" values="18" ticks="247" durationTicks="19" ppq="96" velocity="0.567"/>
-      <note number="6" values="18" ticks="271" durationTicks="53" ppq="96" velocity="0.843"/>
-      <note number="7" values="18" ticks="330" durationTicks="64" ppq="96" velocity="0.669"/>
+      <note number="1" values="18" ticks="32" durationTicks="37" ppq="96" velocity="0.787"/>
+      <note number="2" values="18" ticks="84" durationTicks="35" ppq="96" velocity="0.811"/>
+      <note number="3" values="7" ticks="132" durationTicks="28" ppq="96" velocity="0.85"/>
+      <note number="4" values="18" ticks="166" durationTicks="33" ppq="96" velocity="0.772"/>
+      <note number="5" values="18" ticks="215" durationTicks="25" ppq="96" velocity="0.792"/>
+      <note number="6" values="7" ticks="262" durationTicks="19" ppq="96" velocity="0.789"/>
+      <note number="7" values="38" ticks="289" durationTicks="49" ppq="96" velocity="0.814"/>
+      <note number="8" values="18" ticks="336" durationTicks="92" ppq="96" velocity="0.742"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -71,7 +73,7 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="LeanOn1_1.mp4" size="803864" type="video/mp4" volume="0.89">d579edef7e79a907d533758f2688eac26019752164c1361d9ea5b82ae572e3ff</video>
+    <video name="LeanOn1_1.mp4" size="803864" type="video/mp4" volume="0.581">d579edef7e79a907d533758f2688eac26019752164c1361d9ea5b82ae572e3ff</video>
     <notes>
       <note number="1" values="18" ticks="71" durationTicks="45" ppq="96" velocity="0.843"/>
       <note number="2" values="38" ticks="120" durationTicks="51" ppq="96" velocity="0.906"/>
@@ -84,7 +86,7 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="LeanOn1_2.mp4" size="764599" type="video/mp4" volume="1">59c5027fb6f09092d91bf66a9c979d4baf24f2c9fdd3512a955f9148be10ca96</video>
+    <video name="LeanOn1_2.mp4" size="764599" type="video/mp4" volume="0.568">59c5027fb6f09092d91bf66a9c979d4baf24f2c9fdd3512a955f9148be10ca96</video>
     <notes>
       <note number="1" values="38" ticks="20" durationTicks="37" ppq="96" velocity="0.787"/>
       <note number="2" values="38" ticks="71" durationTicks="55" ppq="96" velocity="0.811"/>
