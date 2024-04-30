@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>lean-on</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>bcaffb480468776131174cfae3497485e32eb28537a842733dfb779bc3c2e710</en>
@@ -104,10 +104,10 @@
     <tonalities>8</tonalities>
     <video name="LeanOn_8_.mp4" size="784743" type="video/mp4" volume="0.546">c2d38d652880a1cae751857064f3607d08b3e83f42a2ab096238169e34a7ccc2</video>
     <notes>
-      <note number="1" values="38" ticks="131" durationTicks="46" ppq="96" velocity="0.787"/>
-      <note number="2" values="48" ticks="191" durationTicks="55" ppq="96" velocity="0.811"/>
-      <note number="3" values="38" ticks="335" durationTicks="42" ppq="96" velocity="0.85"/>
-      <note number="4" values="18" ticks="410" durationTicks="48" ppq="96" velocity="0.772"/>
+      <note number="1" values="38" ticks="71" durationTicks="24" ppq="96" velocity="0.787"/>
+      <note number="2" values="48" ticks="96" durationTicks="23" ppq="96" velocity="0.811"/>
+      <note number="3" values="38" ticks="120" durationTicks="25" ppq="96" velocity="0.85"/>
+      <note number="4" values="18" ticks="144" durationTicks="25" ppq="96" velocity="0.772"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -115,12 +115,18 @@
     <bpm>98</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="LeanOn_8_.mp4" size="784743" type="video/mp4" volume="0.546">c2d38d652880a1cae751857064f3607d08b3e83f42a2ab096238169e34a7ccc2</video>
+    <video name="LeanOn_9_.mp4" size="668363" type="video/mp4" volume="0.616">9c00078efe49a282efbca3cbcbde4b68d4d4c5121e8f456aef4d905765c79c43</video>
     <notes>
-      <note number="1" values="38" ticks="131" durationTicks="46" ppq="96" velocity="0.787"/>
-      <note number="2" values="48" ticks="191" durationTicks="55" ppq="96" velocity="0.811"/>
-      <note number="3" values="38" ticks="335" durationTicks="42" ppq="96" velocity="0.85"/>
-      <note number="4" values="18" ticks="410" durationTicks="48" ppq="96" velocity="0.772"/>
+      <note number="1" values="18" ticks="71" durationTicks="24" ppq="96" velocity="0.787"/>
+      <note number="2" values="7" ticks="96" durationTicks="23" ppq="96" velocity="0.811"/>
+      <note number="3" values="18" ticks="120" durationTicks="25" ppq="96" velocity="0.85"/>
+      <note number="4" values="18" ticks="144" durationTicks="25" ppq="96" velocity="0.772"/>
+      <note number="5" values="7" ticks="169" durationTicks="23" ppq="96" velocity="0.744"/>
+      <note number="6" values="18" ticks="191" durationTicks="47" ppq="96" velocity="0.843"/>
+      <note number="7" values="18" ticks="239" durationTicks="48" ppq="96" velocity="0.762"/>
+      <note number="8" values="7" ticks="289" durationTicks="23" ppq="96" velocity="0.734"/>
+      <note number="9" values="38" ticks="313" durationTicks="49" ppq="96" velocity="0.802"/>
+      <note number="10" values="18" ticks="362" durationTicks="58" ppq="96" velocity="0.759"/>
     </notes>
   </exercise>
 </level>
