@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>lean-on</repo>
-  <version>v1.0.20</version>
+  <version>v1.0.21</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
-    <ru>ee6654e874ae29d39766174f7d38aef476ec02246d07d9b254a2dfb0084b1096</ru>
-    <en>bb95fa136d4e5f626d4bb3ea11adda2ed1a869acaf801cd0ca4944e8c420db28</en>
+    <ru>b6a5b62422b39363b7af78373618df7ebdf7f0501150c5cf49ffcf2b80df1883</ru>
+    <en>3cde56a964a56ad21440474a72e5fc6cf66592b07aefb23a196ac79fa3e40736</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
